@@ -1,0 +1,10 @@
+# This is Git's per-user configuration file.
+[core]
+# Please adapt and uncomment the following lines:
+#	user = Caitlin Watkins
+#	email = ctlnwtkns@gmail.com
+[color]
+	ui = auto
+[user]
+	email = ctlnwtkns@gmail.com
+	name = Caitlin
