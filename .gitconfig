@@ -3,8 +3,11 @@
 # Please adapt and uncomment the following lines:
 #	user = Caitlin Watkins
 #	email = ctlnwtkns@gmail.com
+# <3 !
 [color]
 	ui = auto
 [user]
 	email = ctlnwtkns@gmail.com
 	name = Caitlin
+[credential]
+	helper = /usr/lib/git-core/git-credential-gnome-keyring
